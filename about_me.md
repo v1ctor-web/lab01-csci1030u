@@ -11,3 +11,4 @@ The Lab 01 quiz on Canvas asks the rest (why you're taking the course, how the l
 Answer those in Canvas - this file only needs the three lines above.
 
 Do not add your student number, address, or phone number here. This repository is public.
+- **My goal for this course:** To improve my programming skills and learn how to use Git and GitHub
